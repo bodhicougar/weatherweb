@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"git.autoRepositoryDetection": "subFolders",
+		"git.countBadge": "tracked",
+		"git.defaultCloneDirectory": "/home/bodhicougar/gitRespository",
+		"githd.logView.commitsCount": 100
+	}
+}
