@@ -41,5 +41,9 @@
   "scripts": {
     "test": "./node_modules/.bin/grunt deploy && ./node_modules/.bin/mocha test && ./node_modules/.bin/karma start --single-run"
   },
-  "main": "./dist/weather.js"
+  "main": "./dist/weather.js",
+  "dependencies": {
+    "nodejs": "0.0.0",
+    "nodejs-npm": "^1.0.0"
+  }
 }
