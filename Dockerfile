@@ -14,7 +14,8 @@ WORKDIR /src
 
 # Install dependencies
 
-RUN npm install
+RUN npm i npm@latest -g
+# RUN npm install
 
 EXPOSE 8080
 
